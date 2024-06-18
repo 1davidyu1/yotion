@@ -91,7 +91,7 @@ export const Publish  = ({
                 align="end"
                 alignOffset={0}
                 forceMount
-            >
+            > 
                 {initialData.isPublished ? (
                     <div>
                         Published
